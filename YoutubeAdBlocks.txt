@@ -1,3 +1,6 @@
+### Youtube Ad-Block-List for PiHole by Riedlem ###
+
+#main
 0.0.0.0 r1.sn-25ge7nes.googlevideo.com
 0.0.0.0 r1.sn-4g57kn7e.googlevideo.com
 0.0.0.0 r1.sn-4g57knd7.googlevideo.com
