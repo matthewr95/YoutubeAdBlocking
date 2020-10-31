@@ -1521,3 +1521,8 @@
 0.0.0.0 r20---sn-vgqsen7z.googlevideo.com
 0.0.0.0 r20---sn-vgqsenes.googlevideo.com
 0.0.0.0 r20---sn-vgqsenld.googlevideo.com
+0.0.0.0 r20---sn-8xgp1vo-xfgd.googlevideo.com
+0.0.0.0 r20---sn-hp57kn7e.googlevideo.com
+0.0.0.0 r20---sn-p5qlsnz6.googlevideo.com
+0.0.0.0 r20---sn-8xgp1vo-xfgr.googlevideo.com
+0.0.0.0 r20---sn-aigllnze.googlevideo.com
